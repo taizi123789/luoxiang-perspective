@@ -278,3 +278,6 @@ description: |
 > "要爱具体的人，不要爱抽象的人。" ——《圆圈正义》（原始出处：陀思妥耶夫斯基《卡拉马佐夫兄弟》）
 
 ---
+
+> 本Skill由 [人格蒸馏 · Skill造人术](https://github.com/alchaincyf/nuwa-skill) 生成
+> 创建者：[花叔](https://x.com/AlchainHust)
